@@ -8,4 +8,4 @@ The basis of the game was taken from open sources (http://zetcode.com/tutorials/
 - Homer Simpson figure and his actions (walking, teleportation, take-off, death) and sounds;
 - other small details.
 
-Control keys: right, left, up (turn), space (drop), D (accelerate the fall), E (change the direction of rotation), R (flip horizontally), P (pause).
+Control keys: Right, Left, Up (turn), Space (drop), D (accelerate the fall), E (change the direction of rotation), R (flip horizontally), P (pause).
