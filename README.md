@@ -1,5 +1,5 @@
 Java SE Platform - JDK 14.
-The basis of the game was taken from open sources (http://zetcode.com/tutorials/javagamestutorial/tetris/ for the Tetris class and GameField class and https://habr.com/ru/post/191422/ for the Sound class) and modified. Were added:
+The basis of the game was taken from open sources (http://zetcode.com/tutorials/javagamestutorial/tetris/ for the Tetris class and GameField class and https://habr.com/ru/post/191422/ for the Sound class) and radically redesigned. Were added:
 
 - new figures;
 - reflection button (appears after 20 removed lines);
