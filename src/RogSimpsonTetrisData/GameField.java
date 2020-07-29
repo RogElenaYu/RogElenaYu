@@ -194,7 +194,8 @@ public class GameField extends JPanel {
 	}
 
 	private void turnSoundOnOff(boolean off, boolean changeSoundIcon) {
-		noSound = off;
+		if (!(!changeSoundIcon && btnSound.getIcon() == iconNoSound))
+			noSound = off;
 		if (noSound) {
 			if (changeSoundIcon) {
 				btnSound.setIcon(iconNoSound);
